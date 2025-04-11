@@ -50,3 +50,7 @@ move_right={
 
 locale/translations=PackedStringArray("res://assets/translation/default_translation.en.translation", "res://assets/translation/default_translation.zh.translation")
 locale/locale_filter_mode=1
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
